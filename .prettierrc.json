@@ -1,0 +1,22 @@
+{
+    "tabWidth": 4,
+    "semi": true,
+    "singleQuote": true,
+    "jsxSingleQuote": false,
+    "bracketSpacing": true,
+    "jsxBracketSameLine": false,
+    "arrowParens": "avoid",
+    "printWidth": 130,
+    "importOrder": [
+        "^react(.*)",
+        "^next(.*)",
+        "^redux(.*)",
+        "@/reduxjs(.*)",
+        "<THIRD_PARTY_MODULES>",
+        "@/components(.*)",
+        "@/models(.*)",
+        "@/constants(.*)",
+        "@/styles(.*)"
+    ],
+    "importOrderSeparation": false
+}
